@@ -1,0 +1,30 @@
+{
+    "1234": {
+        "name": "Apfel",
+        "cost": 3.80,
+        "description": "Antonowka",
+        "order": 3,
+        "img": "apple.png"
+    },
+    "1235": {
+        "name": "Birne",
+        "cost": 4.2,
+        "description": "Condo",
+        "order": 5,
+        "img": "pear.png"
+    },
+    "1236": {
+        "name": "Trauben",
+        "cost": 5.35,
+        "description": "Dunkelrot",
+        "order": 1,
+        "img": "grapes.png"
+    },
+    "1237": {
+        "name": "Kirschen",
+        "cost": 7.25,
+        "description": "Sauere_Sorte",
+        "order": 4,
+        "img": "cherry.png"
+    }
+}
